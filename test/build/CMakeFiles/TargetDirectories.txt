@@ -1,0 +1,3 @@
+/home/style/MyScripts/test/build/CMakeFiles/your_executable_name.dir
+/home/style/MyScripts/test/build/CMakeFiles/edit_cache.dir
+/home/style/MyScripts/test/build/CMakeFiles/rebuild_cache.dir

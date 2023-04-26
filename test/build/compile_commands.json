@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/style/MyScripts/test",
+  "command": "/usr/bin/c++  -I/home/style/MyScripts/test/include -std=gnu++11 -o CMakeFiles/your_executable_name.dir/source/add.cpp.o -c /home/style/MyScripts/test/source/add.cpp",
+  "file": "/home/style/MyScripts/test/source/add.cpp"
+}
+]

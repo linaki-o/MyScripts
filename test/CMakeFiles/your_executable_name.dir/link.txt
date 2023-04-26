@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/your_executable_name.dir/source/add.cpp.o -o your_executable_name 
