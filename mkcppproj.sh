@@ -20,3 +20,5 @@ mkdir lib
 
 # 创建readme.md文件
 touch readme.md
+
+git init
